@@ -13,6 +13,7 @@
 Data_collections : [https://dsw2-dsw-d20210516070434d645b49b90e0000572303-8888.pcs-gw-cn-shanghai.aliyun.com/lab/tree/download/Boston_house_price/bostonh.csv](https://dsw2-dsw-d20210516070434d645b49b90e0000572303-8888.pcs-gw-cn-shanghai.aliyun.com/lab/tree/download/Boston_house_price/bostonh.csv)
 
 阿里云天池 Notebook: [https://tianchi.aliyun.com/notebook-ai/detail?postId=220926](https://tianchi.aliyun.com/notebook-ai/detail?postId=220926)
+
 Google colab：[https://colab.research.google.com/github/sujit-168/Boston_house_price/blob/main/Demo/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B1.ipynb](https://colab.research.google.com/github/sujit-168/Boston_house_price/blob/main/Demo/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B1.ipynb)
 
 # reference
