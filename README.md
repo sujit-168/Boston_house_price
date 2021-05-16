@@ -18,4 +18,9 @@ Google colab：[https://colab.research.google.com/github/sujit-168/Boston_house_
 
 # reference
 
-[1].https://ypwhs.github.io/machine-learning/projects/P1_boston_housing/boston_housing.html
+[1].预测波士顿房价  [https://ypwhs.github.io/machine-learning](https://ypwhs.github.io/machine-learning/projects/P1_boston_housing/boston_housing.html)
+
+[2].很系统的波士顿房价预测研究报告 [https://zhuanlan.zhihu.com/p/89873990](https://zhuanlan.zhihu.com/p/89873990)
+
+[3].波士顿房价预测问题简介 [https://minghuiwu.gitbook.io/tfbook/](https://minghuiwu.gitbook.io/tfbook/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.1-bo-shi-dun-fang-jia-yu-ce-wen-ti-jian-jie)
+
